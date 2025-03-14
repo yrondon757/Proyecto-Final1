@@ -38,11 +38,11 @@ function Footer() {
         </div>
         <div className="w-[90%] h-[10%] flex justify-end items-center">
           <div className="flex justify-center items-center gap-2 pb-4 text-[#19899B]">
-            <a href="https://www.facebook.com/"><img src="https://banesco-prod-2020.s3.amazonaws.com/wp-content/themes/banescocontigo/assets/images/social-media/facebook-circle-white.svg.gzip" alt="facebook" /></a>
-            <a href="https://www.instagram.com/"><img src="https://banesco-prod-2020.s3.amazonaws.com/wp-content/themes/banescocontigo/assets/images/social-media/instagram-circle-white.svg.gzip" alt="instagram" /></a>
-            <a href="https://www.linkedin.com/"><img src="https://banesco-prod-2020.s3.amazonaws.com/wp-content/themes/banescocontigo/assets/images/social-media/linkedin-circle-white.svg.gzip" alt="linkedin" /></a>
-            <a href="https://www.youtube.com/"><img src="https://banesco-prod-2020.s3.amazonaws.com/wp-content/themes/banescocontigo/assets/images/social-media/youtube-circle-white.svg.gzip" alt="youtube" /></a>
-            <a href="https://www.twitter.com/"><img src="https://banesco-prod-2020.s3.amazonaws.com/wp-content/themes/banescocontigo/assets/images/social-media/x-twitter-circle-white.svg.gzip" alt="twitter" /></a>
+            <a href="https://www.facebook.com/" target="./blank"><img src="https://banesco-prod-2020.s3.amazonaws.com/wp-content/themes/banescocontigo/assets/images/social-media/facebook-circle-white.svg.gzip" alt="facebook" /></a>
+            <a href="https://www.instagram.com/" target="./blank"><img src="https://banesco-prod-2020.s3.amazonaws.com/wp-content/themes/banescocontigo/assets/images/social-media/instagram-circle-white.svg.gzip" alt="instagram" /></a>
+            <a href="https://www.linkedin.com/" target="./blank"><img src="https://banesco-prod-2020.s3.amazonaws.com/wp-content/themes/banescocontigo/assets/images/social-media/linkedin-circle-white.svg.gzip" alt="linkedin" /></a>
+            <a href="https://www.youtube.com/" target="./blank"><img src="https://banesco-prod-2020.s3.amazonaws.com/wp-content/themes/banescocontigo/assets/images/social-media/youtube-circle-white.svg.gzip" alt="youtube" /></a>
+            <a href="https://www.twitter.com/" target="./blank"><img src="https://banesco-prod-2020.s3.amazonaws.com/wp-content/themes/banescocontigo/assets/images/social-media/x-twitter-circle-white.svg.gzip" alt="twitter" /></a>
           </div>
         </div>
       </div>
