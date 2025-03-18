@@ -1,10 +1,19 @@
 const Inicio = () => {
   const styles = {
-    main: "w-full h-screen bg-gray-400 flex justify-center items-center text-white",
+    div: "w-full h-screen bg-[#F7F7F7] flex justify-center items-center text-black",
+    div2: "w-full h-[800px] bg-gray-500 flex justify-center items-center text-black",
   };
   return (
-    <main className={styles.main}>
-      <h1>Inicio</h1>
+    <main>
+      <div className={styles.div}>
+        <p>Inicio</p>
+      </div>
+      <div className={styles.div2}>
+        <p>Variedad</p>
+      </div>
+      <div className={styles.div2}>
+        <p>Presente</p>
+      </div>
     </main>
   );
 };

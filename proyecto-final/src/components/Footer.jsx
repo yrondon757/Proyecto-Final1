@@ -1,6 +1,6 @@
 function Footer() {
   const styles = {
-    footer:"bg-white w-full h-[500px] col justify-center text-white",
+    footer:"bg-white w-full h-[500px] col justify-center text-white select-none",
     div: "w-full h-[90%] bg-gradient-to-b from-[#19899B]/40 to-[#0C0C96]/40 flex flex-col justify-end items-center",
     div2: "w-full h-[10%] text-black text-2xl bg-[#19899B] flex justify-center items-center font-bold"
   };
